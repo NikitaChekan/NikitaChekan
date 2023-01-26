@@ -6,7 +6,7 @@
 - 💬 Ask me about anything [Telegram](https://t.me/votafck) or [LinkedIn](https://www.linkedin.com/in/nikita-chekan-535474ab/)
 
 <div align="center">
-   <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=NikitaChekan&theme=react-dark&hide_border=true&area=true" />
+   <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=NikitaChekan&theme=react-dark&hide_border=true&area=true&color=c9d1d9" />
 </div> 
 
 <div align="center">  
