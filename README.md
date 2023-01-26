@@ -1,11 +1,14 @@
 ### Hi there 👋
+- 🔭 I’m working on creating iOS applications.
+- 📫 Want to find a job where I could develop my skills and knowledge.
+- 💬 Ask me about anything [Telegram](https://t.me/votafck) or [LinkedIn](https://www.linkedin.com/in/nikita-chekan-535474ab/)
 
 <!--
 **NikitaChekan/NikitaChekan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m working on creating iOS applications.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
