@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8402af&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8402af&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> -->
 
 ### Hi there 👋
 - 🔭 I’m working on creating iOS applications.
@@ -14,7 +14,7 @@
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaChekan&layout=compact&hide_border=true&title_color=8402af&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8402af&height=120&section=footer"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8402af&height=120&section=footer"/> -->
 
 
 
